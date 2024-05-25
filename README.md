@@ -6,6 +6,7 @@ Hristijan Spasovski 195023
 Cyclomatic complexity = Edges-Nodes+2 
 
 23-19+2=6
+
 Cyclomatic complexity = 6
 
 
